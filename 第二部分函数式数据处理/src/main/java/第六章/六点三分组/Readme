@@ -1,0 +1,3 @@
+分组函数
+    groupingBy可以嵌套多层分组
+    groupingBy可以和mapping，sum, max，count联合使用
